@@ -1,0 +1,7 @@
+D:\КУРС\ServerTcpUdp\ServerTCP\ClientTcp\bin\Debug\ClientTcp.exe.config
+D:\КУРС\ServerTcpUdp\ServerTCP\ClientTcp\bin\Debug\ClientTcp.exe
+D:\КУРС\ServerTcpUdp\ServerTCP\ClientTcp\bin\Debug\ClientTcp.pdb
+D:\КУРС\ServerTcpUdp\ServerTCP\ClientTcp\obj\Debug\ClientTcp.csproj.CoreCompileInputs.cache
+D:\КУРС\ServerTcpUdp\ServerTCP\ClientTcp\obj\Debug\ClientTcp.exe
+D:\КУРС\ServerTcpUdp\ServerTCP\ClientTcp\obj\Debug\ClientTcp.pdb
+D:\КУРС\ServerTcpUdp\ServerTCP\ClientTcp\obj\Debug\ClientTcp.csprojAssemblyReference.cache
